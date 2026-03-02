@@ -1,0 +1,17 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # every day at 2 AM UTC
+  workflow_dispatch:        # lets you trigger manually from Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tgymnich/fork-sync@v2.0
+        with:
+          owner: epfl-nlp
+          repo: cs-552-modern-nlp
+          base: main
+          head: main
