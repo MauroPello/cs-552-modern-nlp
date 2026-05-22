@@ -127,12 +127,12 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 13</strong></td>
         <td>28 May <br />29 May</td>
-        <td>Multimodal LLMs &#124; Multilingual LLMs <br />Looking forward</td>
+        <td>Multimodal LLMs &#124; Multilingual LLMs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_13">slides</a>] <br />Looking forward [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_13">slides</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li><li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
             <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
             <li><a href="https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html">LLAVA: Visual Instruction Tuning</a></li>
             <li><a href="https://arxiv.org/pdf/2412.05271">InternVL2.5: Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling</a></li></ul></td>
-        <td>Sepideh Mamooler &#124; Clara Meister<br /> Antoine Bosselut</td>
+        <td>Sepideh Mamooler & Clara Meister<br /> Antoine Bosselut</td>
     </tr>
     <tr>
         <td></td>
